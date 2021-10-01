@@ -9,4 +9,4 @@ I previously created some notes on Istvan's method:
 
 [Istvans_method.pdf](https://github.com/Buffoni/quantum-link-prediction/files/7268290/Istvans_method.pdf)
 
-The current implementation uses the matrix form, but that seems to be very intensive for the 2017 dataset. I think an implementation using the "single entry" form will be much quicker, since we can run it only for the competition set of unconnected nodes.
+The current implementation uses the matrix form, but that seems to be very intensive for the 2017 dataset. I think an implementation using the "single entry" form will be much quicker, since we can run it only for the competition set of unconnected nodes. It should also be very easy to parallelize.
