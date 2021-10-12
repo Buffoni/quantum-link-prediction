@@ -37,7 +37,7 @@ Some pairs in the link to be ordered are between nodes with k = 0 and nodes with
 
 ### Getting competition results and merging scores
 
-Results from each section can be submitted to the competition independently, thus giving the report a comprehensive look at what changes to the initial simpel model had the most effect on the performance.
+Results from each section can be submitted to the competition independently, thus giving the report a comprehensive look at what changes to the initial simple model had the most effect on the performance.
 - Section 2 was already submitted.
 - Section 3 will hopefully give better results than section 2
 - Section 4 will be interesting to see wether we do or don't get better results than section 2/3
