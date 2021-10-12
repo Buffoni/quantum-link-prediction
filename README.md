@@ -39,11 +39,11 @@ Some pairs in the link to be ordered are between nodes with k = 0 and nodes with
 
 Results from each section can be submitted to the competition independently, thus giving the report a comprehensive look at what changes to the initial simple model had the most effect on the performance.
 - Section 2 was already submitted.
-- Section 3 will hopefully give better results than section 2
-- Section 4 will be interesting to see wether we do or don't get better results than section 2/3
-- Section 5 will be scoring a completely different set of pairs, so we can include the independent results from this section for discussion purposes
+- Section 3 will hopefully give better results than section 2 after training the free parameter.
+- Section 4 will be interesting to see whether or not we get better results than section 2/3.
+- Section 5 will be scoring a completely different set of pairs, so we can include the independent results from this section for discussion purposes.
 
-Ideally however our best submission would the one merging the results from section 5 and the best results obtained from either 2, 3 or 4. For this we would probably need to normalize all scores and add a free parameter to be trained in this final stage.
+Ideally, in the end, our best submission would the one merging the results from section 5 and the best results obtained from either 2, 3 or 4. For this we would probably need to normalize all scores and add a free parameter to be trained in this final stage.
 
 ### Conclusion
 
