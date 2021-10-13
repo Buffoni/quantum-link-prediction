@@ -51,6 +51,6 @@ Conclude that we won.
 
 # Competition submissions
 
-Here are what we have submitted to the leaderboard:
+Here is what we have submitted to the leaderboard:
 
-- Bacalhau à Brás: the simple L3 method
+- Bacalhau à Brás: the simple L3 method - score: 0.86238699914634
