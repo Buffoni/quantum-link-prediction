@@ -48,3 +48,9 @@ Ideally, in the end, our best submission would the one merging the results from 
 ### Conclusion
 
 Conclude that we won.
+
+# Competition submissions
+
+Here are what we have submitted to the leaderboard:
+
+- Bacalhau à Brás: the simple L3 method
