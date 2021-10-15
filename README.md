@@ -53,4 +53,7 @@ Conclude that we won.
 
 Here is what we have submitted to the leaderboard:
 
-- Bacalhau à Brás: the simple L3 method - score: 0.86238699914634
+- Bacalhau à Brás: the L3 method - performance: 0.86238699914634
+- Bacalhau com Todos: the PA method - performance: 0.8971536961553
+- Bacalhau à Gomes de Sá: combines L2 and PA - performance: 0.91073543787275 (L2 alone was slightly better than L3)
+- Secret Bacalhau Recipe: combines L2 and PA with time weights - performance: ??????????????
