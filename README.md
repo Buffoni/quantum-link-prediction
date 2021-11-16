@@ -1,7 +1,7 @@
-# Link prediction (no more quantum walks lol)
+# Link prediction using simple network metrics
 Working repository for the science4cast competition.
-
-I think the best managment would be to upload the code that we have now in the main branch and then everyone does his own individual branch and pushes to the main only when major and stable stuff are made.
+In the notebook full_code.ipynb there is all the code to replicate the results of the submissions of team Bacalhink.
+These methods have been initially inspired by a relaxation of a quantum walker L3 and L2 methods but then departed in favour of other metrics like PA.
 
 # Competition submissions
 
