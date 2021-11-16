@@ -1,6 +1,8 @@
 # Link prediction using simple network metrics
 Working repository for the science4cast competition.
-In the notebook full_code.ipynb there is all the code to replicate the results of the submissions of team Bacalhink.
+
+In the notebook full_code.ipynb there is all the code to replicate the results of the submissions of team Bacalhink. The data to run the algorithm can be found in the science4cast website https://www.iarai.ac.at/science4cast/.
+
 These methods have been initially inspired by a relaxation of a quantum walker L3 and L2 methods but then departed in favour of other metrics like PA.
 
 # Competition submissions
