@@ -9,7 +9,13 @@ These methods have been initially inspired by a relaxation of a quantum walker L
 
 Here is what we have submitted to the leaderboard:
 
-- Bacalhau à Brás: the L3 method - performance: 0.86238699914634
-- Bacalhau com Todos: the PA method - performance: 0.8971536961553
-- Bacalhau à Gomes de Sá: combines L2 and PA - performance: 0.91073543787275 (L2 alone was slightly better than L3)
-- Bacalhau à Lagareiro: combines L2 and PA with time weights - performance: 0.91777075300157
+- Bacalhau à Brás: the PA method - performance: 0.89715
+- Bacalhau à Gomes de Sá: the AA method - performance: 0.87091
+- Bacalhau com Todos: combines AA and PA - performance: 0.91385
+- Bacalhau com Natas: PA with time weights - performacne: 0.90364
+- Bacalhau à Lagareiro: combines AA and PA with time weights - performance: 0.91853
+
+## Free parameters:
+
+- a: defines the balance in the linear combination of AA with PA
+- $\theta_0$, $\theta_1$, $\theta_2$, $\theta_3$: defines the time-weighting function
