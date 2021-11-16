@@ -18,4 +18,4 @@ Here is what we have submitted to the leaderboard:
 ## Free parameters:
 
 - a: defines the balance in the linear combination of AA with PA
-- $\theta_0$, $\theta_1$, $\theta_2$, $\theta_3$: defines the time-weighting function
+- (θ0, θ1, θ2, θ3): defines the time-weighting function
