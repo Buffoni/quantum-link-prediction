@@ -12,7 +12,7 @@ Here is what we have submitted to the leaderboard:
 - Bacalhau à Brás: the PA method - performance: 0.89715
 - Bacalhau à Gomes de Sá: the AA method - performance: 0.87091
 - Bacalhau com Todos: combines AA and PA - performance: 0.91385
-- Bacalhau com Natas: PA with time weights - performacne: 0.90364
+- Bacalhau com Natas: PA with time weights - performance: 0.90364
 - Bacalhau à Lagareiro: combines AA and PA with time weights - performance: 0.91853
 
 ## Free parameters:
